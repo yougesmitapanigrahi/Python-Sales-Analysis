@@ -1,0 +1,11 @@
+Order ID,Date,Customer,Product,Category,Quantity,Price
+1,01-01-2024,Amit,Laptop,Electronics,1,50000
+2,05-01-2024,Riya,Phone,Electronics,2,20000
+3,10-01-2024,Rahul,Shoes,Fashion,3,3000
+4,15-01-2024,Sneha,Watch,Accessories,1,5000
+5,20-01-2024,Priya,Laptop,Electronics,1,52000
+6,25-01-2024,Karan,Shoes,Fashion,2,2500
+7,02-02-2024,Amit,Phone,Electronics,1,21000
+8,05-02-2024,Riya,Watch,Accessories,2,4800
+9,10-02-2024,Rahul,Laptop,Electronics,1,51000
+10,15-02-2024,Sneha,Shoes,Fashion,4,2800
