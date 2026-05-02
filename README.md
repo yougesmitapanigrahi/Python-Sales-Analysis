@@ -14,7 +14,7 @@ This project analyzes sales data using Python libraries.
 - Data visualization using bar chart
 
 ## 📷 Output
-(Add your screenshot here)
+![Sales Output](assets/sales_output.png)
 
 ## 📁 Files
 - sales_analysis.py
